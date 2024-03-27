@@ -1,5 +1,7 @@
 package es.ieslavereda.componentes;
 
+import java.io.Serializable;
+
 public class Usuario {
     private String nombre;
     private String apellidos;
